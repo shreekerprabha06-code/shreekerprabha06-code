@@ -6,10 +6,10 @@
 - 📚 Believe in *learning by building*  
 ### 🌐 My Work  
 - 🎬 [Movie Rating Website](#)  
-- 🍲 [Social Media for Food Recipes](#)
+- 🍲 [Social Media for Food Recipes](https://food-recipie-website-srikar.onrender.com/)
 - ❓ [Product Transparency Site](#)
 - 🌐 [Portfolio Website](https://shreekerprabha06-code.github.io/portfoliowebsite/)
-- 📖 [Book Finder Site](#)
+- 📖 [Book Finder Site]()
   
 ### 🛠️ Tech Snapshot  
 
