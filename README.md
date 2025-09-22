@@ -4,12 +4,11 @@
 - 🎨 Focus on clean UI/UX & interactive user experiences  
 - 🛠️ Tinker with new tools, frameworks, and modern tech stacks  
 - 📚 Believe in *learning by building*  
-### 🌐 My Work  
-- 🎬 [Movie Rating Website](#)  
+### 🌐 Live sites
 - 🍲 [Social Media for Food Recipes](https://food-recipie-website-srikar.onrender.com/)
 - ❓ [Product Transparency Site](#)
 - 🌐 [Portfolio Website](https://shreekerprabha06-code.github.io/portfoliowebsite/)
-- 📖 [Book Finder Site]()
+- 📖 [Book Finder Site](https://bookfinder02.netlify.app/)
   
 ### 🛠️ Tech Snapshot  
 
